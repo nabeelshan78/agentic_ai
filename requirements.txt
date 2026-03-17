@@ -3,3 +3,4 @@ langchain-aws
 langchain-core
 langchain-groq
 python-dotenv
+langchain
