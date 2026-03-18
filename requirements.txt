@@ -4,3 +4,5 @@ langchain-core
 langchain-groq
 python-dotenv
 langchain
+pydantic
+langchain_community
