@@ -6,3 +6,8 @@ python-dotenv
 langchain
 pydantic
 langchain_community
+pypdf
+beautifulsoup4
+langchain-huggingface
+sentence-transformers
+langchain_chroma
