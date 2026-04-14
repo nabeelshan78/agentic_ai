@@ -11,3 +11,6 @@ beautifulsoup4
 langchain-huggingface
 sentence-transformers
 langchain_chroma
+pandas
+langchain_experimental
+tabulate
